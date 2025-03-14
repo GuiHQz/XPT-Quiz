@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Pixeled";
+  src: local("Pixeled"), url("./assets/fonts/Pixeled.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
