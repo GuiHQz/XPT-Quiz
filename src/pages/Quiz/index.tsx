@@ -1,9 +1,10 @@
 import "./index.scss";
+import { Scoreboard } from "../../components/Scoreboard";
 
 const Quiz = () => {
   return (
-    <div>
-      <h1>Começar</h1>
+    <div id="started-quiz">
+      <Scoreboard />
     </div>
   );
 };
